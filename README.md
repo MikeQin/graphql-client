@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Final Web - React Client
+![GraphQL React Client](public/graphql-books.png)
+
+### Tutorial - GraphQL Full Course
+[GraphQL Full Course - Novice to Expert](https://youtu.be/ed8SzALpx1Q)
+
+### Install Apollo
+npm install apollo-boost react-apollo graphql --save
+
 ## Available Scripts
 
 In the project directory, you can run:
